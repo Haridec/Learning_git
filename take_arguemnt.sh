@@ -1,2 +1,4 @@
 a=$1
-echo "this is from script $a"
+c=$2
+echo "this is from script $a and $c"
+
